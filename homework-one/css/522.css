@@ -1,0 +1,28 @@
+@charset "utf-8";
+
+body {
+	background-image: url("../img/124.jpg");
+	background-repeat: repeat;
+}
+
+	color: black;
+}
+
+body {
+	font-family: arial, 微软雅黑, serif;
+	font-size:20px;
+}
+
+
+#music{
+	position:fixed;
+	top: 20%;
+	margin-left: 75%;
+}
+
+video {
+	position: absolute;
+	top:50px;
+	left: 300px;
+	width: 600px;
+}
